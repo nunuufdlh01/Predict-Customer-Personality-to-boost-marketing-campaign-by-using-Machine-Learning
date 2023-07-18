@@ -141,6 +141,7 @@ If we continue to prioritize customers in this group and none of them churn, the
 - Loyalty Customers: IDR 880 Million
 - New Customers: IDR 93 Million
 
+**Mini-Project File Link is** <a href="https://drive.google.com/file/d/1WGC841EZWvSZyIUuQdNt3KtHW60EEPdt/view?usp=drive_link">Here</a>
 
 
 
